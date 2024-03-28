@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhayanidhiv07@gmail.com**
 
-- ⚡ Fun fact **passion by Gamer , Profession by Engineer.**
+- ⚡ Fun fact **Passion by Gamer , Profession by Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
