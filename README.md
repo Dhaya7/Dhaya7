@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhayanidhi</h1>
+<h1 align="center">Hi 👋, I'm Dhaya</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
 - 🌱 I’m currently learning **AWS DEVOPS**
